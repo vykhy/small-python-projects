@@ -1,6 +1,5 @@
 import pygame
 
-
 class Paddle:
     VEL = 4
     WIDTH = 20
